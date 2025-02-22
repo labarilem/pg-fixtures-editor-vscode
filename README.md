@@ -5,7 +5,7 @@ Utilities to edit SQL fixtures for Postgres databases.
 Have you ever had to edit a SQL fixture after a DB schema migration? It's a real pain.
 This extension aims to make this process easier.
 
-![Remove column](https://raw.githubusercontent.com/labarilem/pg-fixtures-editor-vscode/main/images/demo.gif)
+![Remove column](https://raw.githubusercontent.com/labarilem/pg-fixtures-editor-vscode/main/images/demo-hires.gif)
 
 ## Features
 
